@@ -1,5 +1,6 @@
 # euler-bernoulli-beam
 Calculate displacement/slope/curvature of euler-bernoulli bending beam.
+This can be done for a disered number of supports `n`.
 
 The live script `getEulerBernoulliExamples.mlx` shows the exemplary use of the live function `getEulerBernoulliFunction.mlx`.
 
